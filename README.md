@@ -1,8 +1,8 @@
 # 📌 Emaartech Building
 
-**Emaartech Building** projesi tamamen responsizve yapıya sahip olup, Emaartech Building AŞ. için oluşturulmuş açık kaynaklı bir projedir . 🚀  
+**Emaartech Building** projesi tamamen responsive yapıya sahip olup, Emaartech Building AŞ. için oluşturulmuş açık kaynaklı bir projedir . 🚀  
 
-![Proje Görseli](udemig-academy-gif.gif)  
+![Proje Görseli](emaar-tech-gif.gif)  
 
 ---
 
@@ -19,4 +19,4 @@
 1. Bu projeyi bilgisayarınıza klonlayın:  
    ```bash
    cd Klasör adı
-   git clone https://github.com/omerffae/udemig-academy.git# emaar-tech
+   git clone https://github.com/omerffae/emaar-tech.git
